@@ -1,0 +1,6 @@
+{
+  "name": "The African Digital Hub",
+  "description": "A modern, high-trust tech community and software development company empowering developers across Africa and building cutting-edge local solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
